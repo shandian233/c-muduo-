@@ -1,0 +1,20 @@
+# Build directory
+build/
+# IDE specific files
+.vscode/
+.vs/
+# Compiled files
+*.exe
+*.obj
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.suo
+*.user
+*.sdf
+*.opensdf
+Debug/
+Release/
+x64/
